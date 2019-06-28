@@ -1,0 +1,32 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+        background-color: #96a578;
+    font-size: 18px;
+
+}
+
+.content{
+    background-color: #fff;
+    margin: 0px;
+     border-left: 5px solid red;
+}
+
+.menu3 a:hover{
+    color: #fff;
+    background-color: red!important;
+    
+}
+.footer{
+    background-color: #337ab7;
+/*    min-height: 90px;*/
+    border-bottom: 5px solid red;
+    
+}
+.sub-footer{
+    
+   border-bottom: 2px solid #fff; 
+}
+#foot{
+    border-top: 2px solid #fff;
+    padding: 5px;
+}
