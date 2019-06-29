@@ -1,2 +1,2 @@
-# Forecastme-der
-with forcastme-der  app you can forecast any city in the world
+# Forecastme
+with forcastme app you can forecast any city in the world
